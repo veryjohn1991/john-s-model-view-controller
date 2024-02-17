@@ -22,7 +22,7 @@ The goal of this assignment was to create a blog site where developers can publi
 - Created logic for backend (adding, viewing, editing, and deleting blog posts).
 
 
-- GitHub Link: https://github.com/amnindersinghk/model-view-controller-homework/tree/main
+- GitHub Link: https://github.com/veryjohn1991/john-s-model-view-controller 
 
 
 Note: Got assistance from Cuitlahuac Hernandez and Ahmed Danawi from class and used chatgpt and google for questions.
