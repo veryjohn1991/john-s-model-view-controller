@@ -25,4 +25,4 @@ The goal of this assignment was to create a blog site where developers can publi
 - GitHub Link: https://github.com/veryjohn1991/john-s-model-view-controller 
 
 
-Note: Got assistance from Cuitlahuac Hernandez and Ahmed Danawi from class and used chatgpt and google for questions.
+Note: Got assistance from friends and used chatgpt and google for questions.
