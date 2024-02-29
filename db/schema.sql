@@ -1,3 +1,3 @@
-DROP DATABASE IF EXISTS tech_blog_db;
+DROP DATABASE IF EXISTS model-view-controller-homework;
 
-CREATE DATABASE tech_blog_db;
+CREATE DATABASE model-view-controller-homework;
